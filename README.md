@@ -1,2 +1,2 @@
 # QuantumultX-Script
-This is private
+This is private.
